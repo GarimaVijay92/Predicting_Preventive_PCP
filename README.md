@@ -13,6 +13,7 @@ The goal of this project is to develop a predictive model to identify Humana's M
 
 # Technologies Used
 Python programming: For data preprocessing, model development, visualization and analysis.
+
 Google Colab: For handling large dataset 
 
 # Challenges
